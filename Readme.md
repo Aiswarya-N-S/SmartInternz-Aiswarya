@@ -13,4 +13,7 @@ https://public.tableau.com/views/Project_DA1_Dashboard/Dashboard1?:language=en-G
 # Link of the Story
 https://public.tableau.com/views/Project_DA_Story1/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
+# Google Drive Link for Assignments, Project Files, Project Report and Video Link
+
+https://drive.google.com/drive/folders/1EhaqU14KNJbR5zgDklaUey95rF1nE5KL?usp=drive_link
 
